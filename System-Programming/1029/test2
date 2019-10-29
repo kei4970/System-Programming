@@ -1,0 +1,5 @@
+#!/bin/bash
+#Display user infomation from them system
+echo "User info userid : $USER"
+echo UID : $UID
+echo HOME : $HOME
