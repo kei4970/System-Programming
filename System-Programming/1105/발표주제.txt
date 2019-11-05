@@ -1,0 +1,12 @@
+1. profile, bashrc, .bash_profile, .bashrc
+각 파일의 기능과 실제 예에대해 기술하시오.
+
+2. 데몬(deamon) process에 대해 기술하시오.
+
+3. 문맥교환(context switching)에대해 기술하시오.
+
+4. static에 대해 기술하시오.
+
+5. init, systemd
+
+6. Process 구조
